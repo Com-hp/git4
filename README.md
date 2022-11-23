@@ -1,4 +1,4 @@
-# git4
+# git4 conflict test
 
 **code for git test**
 
@@ -8,7 +8,7 @@
 Now I get it
 
 It's windy
-
+tt
 If you just waitI can't
 
 To those who are waiting
