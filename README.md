@@ -23,7 +23,7 @@ It means to get through it
 
 No matter who goes out and falls
 
-It means to fight a game.
+It means to fight a game
 
 in life
 
