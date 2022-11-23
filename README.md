@@ -1,4 +1,4 @@
-# git4 conflict test
+# git4 test
 
 **code for git test**
 
