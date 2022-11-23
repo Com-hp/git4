@@ -14,7 +14,7 @@ If you just waitI can't
 To those who are waiting
 
 The wind is even stronger
-
+.
 It's just a rush
 
 It's windy
