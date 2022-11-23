@@ -6,7 +6,11 @@
 ---
 
 Now I get it
+<<<<<<< HEAD
 conconconcocnon
+=======
+welcome conflict
+>>>>>>> 607b2284bd5800fa601a65fd58664f799ec28e2f
 It's windy
 tt
 If you just waitI can't
